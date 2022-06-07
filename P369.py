@@ -5,13 +5,25 @@
 #import pandas as pd
 #import scipy
 
-x = [1,2,3,4]
-y = [5,6,7,8]
-plt.plot(x,y)
-plt.show()
+import itertools
+
+deck =
 
 
+def isBadugi(subset):
+    #
+    if ():
+        pass
+    return False
 
+
+def funct(n):
+    subsets = itertools.combinations(deck, n)
+
+    return
+
+
+if __name__ == "__main__":
 
 
 
